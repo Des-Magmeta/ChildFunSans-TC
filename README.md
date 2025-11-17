@@ -1,5 +1,5 @@
 # Child Fun Sans TC | 遊趣體　繁
-> 此專案正在進行中，預計 2026 年發行。敬請期待。
+> 此專案正在進行中，預計 2026 年發行。敬請期待。  
 > This repository is processing, which will be released in 2026. Please stay tuned.
 
 ## 項目簡介
