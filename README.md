@@ -1,2 +1,22 @@
-# ChildFunSans-TC
-The Traditional Chinese Edition of Child Fun Sans, derived from Fontworks' Stick.
+# Child Fun Sans TC | 遊趣體　繁
+> 此專案正在進行中，預計 2026 年發行。敬請期待。
+> This repository is processing, which will be released in 2026. Please stay tuned.
+
+## 項目簡介
+Stick 因筆形像筆桿一樣以直線設計，而被視爲一款既可愛調皮，亦有田園寫意風格的字型，在設計領域廣受應用。然而原始字體 Stick 是為日文而設，漢字部份以日本使用的字形爲基準，且只支援 Adobe-Japan1-3 範圍的漢字，仍缺部分常用字，無法滿足日常繁體中文應用需求。故本人計劃基於 Fontworks 出品的日文字型 Stick 增補、調整字形，並編輯、適當增加 OpenType 特性，以滿足繁體中文的使用需求。
+
+## 總體計劃
+考慮到本字型的部分筆形具有一定手寫感，本字型計劃發佈現代字形版本，採用折中印刷字形，在傳統字形基礎上，兼顧當代慣用部件寫法。具體規則詳見[「遊趣體」繁體版設計計劃及部件細則](https://github.com/Des-Magmeta/ChildFunSans-TC/blob/main/Docs/Rule_Components.md)。
+
+## 補字計劃
+### 最高優先級
+- [x] Adobe-Japan1-3（原始授權字體所含）
+### 較高優先級
+- [ ] jf 7000 當務字集（基本包、臺灣命名常用包）
+- [ ] 常用香港外字表（A～C、1～5、ㄅ級）
+### 中等優先級
+- [ ] GB/T 12345-1990
+- [ ] GB/T 2312-1980
+- [ ] 通用規範漢字表 第二級（及對應繁體）
+### 較低優先級
+- [ ] 通用規範漢字表 第三級（及對應繁體）
