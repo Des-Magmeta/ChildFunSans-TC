@@ -2,7 +2,7 @@
 > 此專案正在進行中，預計 2026 年發行。敬請期待。  
 > This repository is processing, which will be released in 2026. Please stay tuned.
 
-> [!Notes]
+> [!Note]
 > 此字型面向繁體中文用戶製作，如需使用簡體中文版，請移步[「遊趣體」簡體版](github.com/Des-Magmeta/ChildFunSans)。
 
 ## 項目簡介
