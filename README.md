@@ -13,14 +13,14 @@ Stick 因筆形像筆桿一樣以直線設計，而被視爲一款既可愛調�
 ## 總體計劃
 考慮到本字型的部分筆形具有一定手寫感，本字型計劃發佈現代字形版本，採用折中印刷字形，在傳統字形基礎上，兼顧當代慣用部件寫法。具體規則詳見[「遊趣體」繁體版設計計劃及部件細則](https://github.com/Des-Magmeta/ChildFunSans-TC/blob/main/Docs/Rule_Components.md)。
 
-## 補字計劃
+## 後續补字計劃
 ### 最高優先級
 - [x] Adobe-Japan1-3（原始授權字體所含）
-- [ ] 台灣地區[「常用國字標準字體表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt) 
-- [ ] [BIG5 一級（常用）漢字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 
+- [ ] 台灣地區「常用國字標準字體表」
+- [ ] BIG5 一級（常用）漢字
 ### 較高優先級
 - [ ] jf 7000 當務字集（基本包、臺灣命名常用包）
-- [ ] 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用漢字和部分異體字； 
+- [ ] 香港地區「常用字字形表」
 - [ ] 常用香港外字表（A～C、1～5、ㄅ級）
 ### 中等優先級
 - [ ] GB/T 12345-1990
@@ -28,3 +28,10 @@ Stick 因筆形像筆桿一樣以直線設計，而被視爲一款既可愛調�
 - [ ] 通用規範漢字表 第二級（及對應繁體）
 ### 較低優先級
 - [ ] 通用規範漢字表 第三級（及對應繁體）
+
+## 參考文獻／字型
+ 1. [《霞鶩晰黑》重生及《霞鶩緻宋》維護計劃](https://github.com/lxgw/LxgwXiHei/blob/main/documentation/plan.md)
+ 2. [IBM Plex Sans TC](https://github.com/IBM/plex)
+ 3. [華英明朝](https://github.com/GuiWonder/HuayingMincho)
+ 4. [臺北黑體](https://sites.google.com/view/jtfoundry/)
+ 5. [CJK Tables](https://github.com/NightFurySL2001/cjktables)
