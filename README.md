@@ -16,8 +16,11 @@ Stick 因筆形像筆桿一樣以直線設計，而被視爲一款既可愛調�
 ## 補字計劃
 ### 最高優先級
 - [x] Adobe-Japan1-3（原始授權字體所含）
+- [ ] 台灣地區[「常用國字標準字體表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt) 
+- [ ] [BIG5 一級（常用）漢字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 
 ### 較高優先級
 - [ ] jf 7000 當務字集（基本包、臺灣命名常用包）
+- [ ] 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用漢字和部分異體字； 
 - [ ] 常用香港外字表（A～C、1～5、ㄅ級）
 ### 中等優先級
 - [ ] GB/T 12345-1990
