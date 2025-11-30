@@ -152,8 +152,11 @@
 ## 後續补字計劃
 ### 最高優先級
 - [x] Adobe-Japan1-3（原始授權字體所含）
+- [ ] 台灣地區「常用國字標準字體表」
+- [ ] BIG5 一級（常用）漢字
 ### 較高優先級
 - [ ] jf 7000 當務字集（基本包、臺灣命名常用包）
+- [ ] 香港地區「常用字字形表」
 - [ ] 常用香港外字表（A～C、1～5、ㄅ級）
 ### 中等優先級
 - [ ] GB/T 12345-1990
@@ -161,10 +164,10 @@
 - [ ] 通用規範漢字表 第二級（及對應繁體）
 ### 較低優先級
 - [ ] 通用規範漢字表 第三級（及對應繁體）
-<!-- [ ] BIG5 -->
 
 ## 參考文獻／字型
  1. [《霞鶩晰黑》重生及《霞鶩緻宋》維護計劃](https://github.com/lxgw/LxgwXiHei/blob/main/documentation/plan.md)
  2. [IBM Plex Sans TC](https://github.com/IBM/plex)
  3. [華英明朝](https://github.com/GuiWonder/HuayingMincho)
  4. [臺北黑體](https://sites.google.com/view/jtfoundry/)
+ 5. [CJK Tables](https://github.com/NightFurySL2001/cjktables)
