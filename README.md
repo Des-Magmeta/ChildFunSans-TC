@@ -1,6 +1,6 @@
 # Child Fun Sans TC | 遊趣體　繁
-> 此專案正在進行中，預計 2026 年發行。敬請期待。  
-> This repository is processing, which will be released in 2026. Please stay tuned.
+> 此專案正在進行中，預計 2026 年春節前後發行。敬請期待。  
+> This repository is processing, which will be released in Feb, 2026. Please stay tuned.
 
 > [!Note]
 > 此字型面向繁體中文用戶製作，如需使用簡體中文版，請移步[「遊趣體」簡體版](github.com/Des-Magmeta/ChildFunSans)。
@@ -16,8 +16,8 @@ Stick 因筆形像筆桿一樣以直線設計，而被視爲一款既可愛調�
 ## 後續补字計劃
 ### 最高優先級
 - [x] Adobe-Japan1-3（原始授權字體所含）
-- [ ] 台灣地區「常用國字標準字體表」
-- [ ] BIG5 一級（常用）漢字
+- [x] 台灣地區「常用國字標準字體表」
+- [x] BIG5 一級（常用）漢字
 ### 較高優先級
 - [ ] jf 7000 當務字集（基本包、臺灣命名常用包）
 - [ ] 香港地區「常用字字形表」
