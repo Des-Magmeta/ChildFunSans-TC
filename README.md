@@ -49,4 +49,4 @@ Stick 因筆形像筆桿一樣以直線設計，而被視爲一款既可愛調�
  - [@奈白不弍](https://github.com/Buernia)、[@Steve-Yuu](https://github.com/Steve-Yuu)、[@不務正業的小雞](https://github.com/buwuzhengyedexiaoji)、[@GeorgomeFont](https://github.com/GeorgomeFont) 協助完善字型。
 
 ## 本項目星數趨勢圖  
- [![Stargazers over time](https://starchart.cc/Des-Magmeta/ChildFunSans-TC.svg)](https://starchart.cc/Des-Magmeta/ChildFunSans-TC)
+[![Stargazers over time](https://starchart.cc/Des-Magmeta/ChildFunSans-TC.svg?variant=adaptive)](https://starchart.cc/Des-Magmeta/ChildFunSans-TC)
