@@ -22,7 +22,7 @@ Stick 因筆形像筆桿一樣以直線設計，而被視爲一款既可愛調�
 
 ## 注意事項
  1. 本人並非專業設計師，並未考慮設計美感，故部分字形可能不美觀，後補字與原版可能略有違和感，且在新補字元中部分字的輪廓曲線會有毛刺。此外由於時間倉促，並沒有多餘的時間細修，部分字的部件拼接比較生硬。如有字形優化建議，請在 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/2) 提出。如需請求添加目標範圍以外的字元，請在 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/1) 提出，不要另開新串，以便於整理。
- 2. 此字型採用折中印刷體（偏現代字形），可能無法滿足傳統字形愛好者需求，如需使用傳統字形版本，請移步[「傳趣體」](https://github.com/Steve-Yuu/Chuanqu)。 
+ 2. 此字型採用折中印刷體（偏現代字形），可能無法滿足傳統字形愛好者需求，如需使用傳統字形版本，請移步[「傳趣體」](https://github.com/Steve-Yuu/Chuanqu)。  
  3.「遊趣體」支持 Unicode 變體序列（Unicode Variation Sequences, UVS），用於彎引號`“‘’”`寬度和全形標點符號`，．、。：；！？`位置的選擇，支援變體序列的字元和所搭配的選擇符詳見[「遊趣體」變體序列一覽表](https://github.com/Des-Magmeta/ChildFunSans/Docs/Feature_UVS.md)。**WPS Office、PowerPoint (Microsoft 365) 軟體不支援此特性**，使用時需留意。 
  4. 部分軟體（如 PowerPoint 365）中，使用該字型可能會出現豎排文本顯示異常的問題。
  5. 此字型面向繁體中文用戶，如需使用簡體中文版，請移步[「遊趣體」簡體版](https://github.com/Des-Magmeta/ChildFunSans)。
