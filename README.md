@@ -4,7 +4,7 @@
 > <div lang="ko">
 > 
 > - 添加字元請求請於 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/1) 提出<span lang="zh-TW">，</span>字形調整請於 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/2) 反饋<span lang="zh-TW">，</span>**不要另外新建 Issue 串<span lang="zh-TW">，</span>以便於整理<span lang="zh-TW">。</span>**
-> - 若需在網頁上使用此字型<span lang="zh-TW">，</span>請與 [ZSFT](https://fonts.zeoseven.com/items/219/) 搜尋「遊趣體」系列字型<span lang="zh-TW">。</span>
+> - 若需在網頁上使用此字型<span lang="zh-TW">，</span>請於 [ZSFT](https://fonts.zeoseven.com/items/219/) 搜尋「遊趣體」系列字型<span lang="zh-TW">。</span>
 > - 更多衍生版本 *（可能隨時變更）*：
 >   - <span lang="zh-CN">[游趣体 SC / Child Fun Sans SC](https://github.com/Des-Magmeta/ChildFunSans)：简体中文版，简体中文用户或使用简体字者建议使用此版本字体。</span>
 >   - <span lang="ko-KR">[傳趣體 / Chuanqu](https://github.com/Steve-Yuu/Chuanqu)：傳統字形版<span lang="zh-TW">，</span>参考 Y 氏筆書對部件進行修改<span lang="zh-TW">，</span>傳統字形愛好者建議使用此字型<span lang="zh-TW">。</span></span>
