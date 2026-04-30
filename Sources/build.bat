@@ -1,0 +1,2 @@
+fontmake -u ChildFunSansTC-Regular.ufoz --keep-overlaps --keep-direction --no-generate-GDEF --no-production-names -o ttf --output-dir ../fonts/TTF
+fontmake -u ChildFunSansTCAlt-Regular.ufoz --keep-overlaps --keep-direction --no-generate-GDEF --no-production-names -o ttf --output-dir ../fonts/TTF
