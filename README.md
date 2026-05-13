@@ -34,7 +34,7 @@ Stick 因筆形像筆桿一樣以直線設計<span lang="zh-TW">，</span>而被
 - [x] jf 7000 當務字集基本包
 - [x] jf 7000 當務字集臺灣命名常用包
 - [x] 香港地區「常用字字形表」
-- [ ] 常用香港外字表（A～C<span lang="zh-TW">、</span>1～5<span lang="zh-TW">、</span>ㄅ級）
+- [x] 常用香港外字表（A～C<span lang="zh-TW">、</span>1～5<span lang="zh-TW">、</span>ㄅ級）
 ### 中等優先級
 - [ ] GB/T 12345-1990
 - [ ] 通用規範漢字表 第二級 繁體部分
