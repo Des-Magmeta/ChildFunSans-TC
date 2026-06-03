@@ -1,5 +1,10 @@
 # Child Fun Sans TC | 遊趣體　繁
 
+<div align="center">
+ 
+<span lang="zh-tw">繁體中文</span> | <span lang="zh-cn">[简体中文](README.zh-hans.md)</span>
+</div>
+
 > [!IMPORTANT]
 > - 添加字元請求請於 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/1) 提出，字形調整請於 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/2) 反饋，**不要另外新建 Issue 串，以便於整理。**
 > - 若需在網頁上使用此字型，請於 [ZSFT](https://fonts.zeoseven.com/items/219/) 搜尋「遊趣體」系列字型。
