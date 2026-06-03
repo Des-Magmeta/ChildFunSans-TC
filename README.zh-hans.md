@@ -56,7 +56,7 @@ Stick 因笔形像笔杆一样以直线设计，而被视为一款既可爱调�
 ## 注意事项
  1. 本人并非专业设计师，并未考虑设计美感，故部分字形可能不美观，后补字与原版可能略有违和感，且在新补字符中部分字的轮廓曲线会有毛刺。此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接比较生硬。如有字形优化建议，请在 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/2) 提出。如需请求添加目标范围以外的字符，请在 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/1) 提出，**不要另开议题，以便于整理。**
  2. 此字体采用折中印刷体（偏现代字形），可能无法满足传统字形爱好者需求，如需使用传统字形版本，请移步[「传趣体」](https://github.com/Steve-Yuu/Chuanqu)。
- 3. 「游趣体」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于弯引号`“‘’”`宽度和全角标点符号<span lang="zh-TW">`，．、。：；！？`</span>位置的选择，支持变体序列的字符和所搭配的选择符详见[「游趣体」变体序列一览表](https://github.com/Des-Magmeta/ChildFunSans/blob/main/Docs/Feature_UVS.md)。**WPS Office、PowerPoint (Microsoft 365) 软件不支持此特性**，使用时需留意。
+ 3. 「游趣体」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于弯引号`“‘’”`宽度和全角标点符号<span lang="zh-TW">`，．、。：；！？`</span>位置的选择，支持变体序列的字符和所搭配的选择符详见[「游趣体」变体序列一览表](https://github.com/Des-Magmeta/ChildFunSans-TC/blob/main/Docs/Feature_UVS.md)。**PowerPoint (Microsoft 365) 等部分软件不支持此特性**，使用时需留意。
  4. 部分软件（如 PowerPoint 365）中，使用该字体可能会出现竖排文本显示异常的问题。
  5. 此字体面向繁体中文用户，如需使用简体中文版，请移步[「游趣体」简体版](https://github.com/Des-Magmeta/ChildFunSans)。
 
@@ -72,7 +72,7 @@ Stick 因笔形像笔杆一样以直线设计，而被视为一款既可爱调�
  - 这款字体可以自由传播、分享，或者将字体安装于系统、软件或 APP 中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。 
  - 这款字体可自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL 1.1](https://openfontlicense.org) 公开。 
  ### 限制 
- - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「游趣体」「游趣体」「Child Fun Sans」，基于本字体二次衍生的字体，名称不可出现「游趣体」「游趣体」「Child Fun Sans」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称。 
+ - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「游趣体」「遊趣體」「Child Fun Sans」，基于本字体二次衍生的字体，名称不可出现「游趣体」「遊趣體」「Child Fun Sans」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称。 
  - 根据 [SIL Open Font License 1.1](https://openfontlicense.org)「许可与条件」中第 1 条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。** 
  - 该字体不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授权许可下发行。
 
