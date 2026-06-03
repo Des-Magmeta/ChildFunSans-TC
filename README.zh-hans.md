@@ -1,7 +1,7 @@
 # Child Fun Sans TC | 游趣体　繁
 
 > [!IMPORTANT]
-> - 添加字符请求请于 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/1) 提出，字形调整请于 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/2) 反馈，**不要另外新建 Issue 串，以便于整理。**
+> - 添加字符请求请于 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/1) 提出，字形调整请于 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/2) 反馈，**不要另开议题，以便于整理。**
 > - 若需在网页上使用此字体，请于 [ZSFT](https://fonts.zeoseven.com/items/219/) 搜索「游趣体」系列字体。
 > - 更多衍生版本 *（可能随时变更）*：
 >   - <span lang="zh-CN">[游趣体 SC / Child Fun Sans SC](https://github.com/Des-Magmeta/ChildFunSans)：简体中文版，简体中文用户或使用简体字者建议使用此版本字体。</span>
@@ -17,9 +17,9 @@
 </div>
  
 ## 项目简介
-Stick 因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦有田园写意风格的字体，在设计领域广受应用。然而原始字体 Stick 是为日文而设，汉字部分以日本使用字体的字形为基准，且只支持 Adobe-Japan1-3 范围的汉字，仍缺部分常用字，无法满足日常繁体中文应用需求。故本人计划基于 Fontworks 出品的日文字体 Stick 增补、调整字形，并编辑、适当增加 OpenType 特性，以满足繁体中文的使用需求。
+Stick 因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦有田园写意风格的字体，在设计领域广受应用。然而原始字体 Stick 是为日文而设，汉字部分以日本使用的字形为基准，且只支持 Adobe-Japan1-3 范围的汉字，仍缺部分常用字，无法满足日常繁体中文应用需求。故本人计划基于 Fontworks 出品的日文字体 Stick 增补、调整字形，并编辑、适当增加 OpenType 特性，以满足繁体中文的使用需求。
 ## 总体计划
-考虑到本字体的部分笔形具有一定手写感，本字体计划发布现代字形版本，采用折中印刷字形，在传统字形基础上，兼顾当代惯用部件写法。具体规则详见[「游趣体」繁体版设计计划及部件细则](https://github.com/Des-Magmeta/ChildFunSans-TC/blob/main/Docs/Rule_Components.md)。
+考虑到本字体的部分笔形具有一定手写感，本字体计划发布现代字形版本，采用折中印刷字形，在传统字形基础上，兼顾当代惯用部件写法。具体规则详见[「游趣体」繁体版设计计划及部件细则](https://github.com/Des-Magmeta/ChildFunSans-TC/blob/main/Docs/Rule_Components.md)（原文为繁体文本）。
 
 ## 补字计划
 ### 最高优先级
@@ -46,17 +46,17 @@ Stick 因笔形像笔杆一样以直线设计，而被视为一款既可爱调�
 > #### 何为 IICore？
 > 「国际表意文字核心」（International Ideographs Core，IICore）是 CJK 统一表意文字编码的最小子集，包含了两岸四地、日本、韩国、朝鲜等区域提交的总共 9810 个常用汉字，可用于内存容量和输入／输出资源有限的设备，以及／或那些不能使用整套 ISO/IEC 10646 表意文字字集的应用系统。IICore 包含 9706 个基本区汉字、42 个扩展 A 区汉字和 62 个扩展 B 区汉字，于 2003 年 IRG 第 21 次会议提出，2004 年 IRG 第 22 次会议通过。
 
-后续将透过 Issue、衍生字体等来源酌情添加字符。
+后续将通过议题（Issue）、衍生字体等来源酌情添加字符。
 
 ## 注意事项
- 1. 本人并非专业设计师，并未考虑设计美感，故部分字形可能不美观，后补字与原版可能略有违和感，且在新补字符中部分字的轮廓曲线会有毛刺。此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接比较生硬。如有字形优化建议，请在 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/2) 提出。如需请求添加目标范围以外的字符，请在 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/1) 提出，**不要另外新建 Issue 串，以便于整理。**
+ 1. 本人并非专业设计师，并未考虑设计美感，故部分字形可能不美观，后补字与原版可能略有违和感，且在新补字符中部分字的轮廓曲线会有毛刺。此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接比较生硬。如有字形优化建议，请在 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/2) 提出。如需请求添加目标范围以外的字符，请在 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/1) 提出，**不要另开议题，以便于整理。**
  2. 此字体采用折中印刷体（偏现代字形），可能无法满足传统字形爱好者需求，如需使用传统字形版本，请移步[「传趣体」](https://github.com/Steve-Yuu/Chuanqu)。
  3. 「游趣体」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于弯引号`“‘’”`宽度和全角标点符号<span lang="zh-TW">`，．、。：；！？`</span>位置的选择，支持变体序列的字符和所搭配的选择符详见[「游趣体」变体序列一览表](https://github.com/Des-Magmeta/ChildFunSans/blob/main/Docs/Feature_UVS.md)。**WPS Office、PowerPoint (Microsoft 365) 软件不支持此特性**，使用时需留意。
  4. 部分软件（如 PowerPoint 365）中，使用该字体可能会出现竖排文本显示异常的问题。
  5. 此字体面向繁体中文用户，如需使用简体中文版，请移步[「游趣体」简体版](https://github.com/Des-Magmeta/ChildFunSans)。
 
 ## 协助完善 
-  「游趣体」仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以透过以下方式与本人联系。  
+  「游趣体」仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。  
  - **Email:** des-magmeta@163.com；1265318015@qq.com 
  - **哔哩哔哩：**[仲代骆驼 Magmeta](https://space.bilibili.com/3546981905467779)
 
