@@ -3,24 +3,28 @@
  
 <span lang="zh-tw">[繁體中文](README.md)</span> | <span lang="zh-cn">简体中文</span>
 </div>
-
-<div lang="zh-cn">
  
 > [!IMPORTANT]
+> <div lang="zh-cn">
+>
 > - 添加字符请求请于 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/1) 提出，字形调整请于 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/2) 反馈，**不要另开议题，以便于整理。**
 > - 若需在网页上使用此字体，请于 [ZSFT](https://fonts.zeoseven.com/items/219/) 搜索「游趣体」系列字体。
 > - 更多衍生版本 *（可能随时变更）*：
 >   - [游趣体 SC / Child Fun Sans SC](https://github.com/Des-Magmeta/ChildFunSans)：简体中文版，简体中文用户或使用简体字者建议使用此版本字体。
 >   - [传趣体 / Chuanqu](https://github.com/Steve-Yuu/Chuanqu)：传统字形版，参考 Y 式笔书对部件进行进一步修改，传统字形爱好者建议使用此字体。
+> </div>
+
 <div align="center">
  
  [![最新版](https://img.shields.io/github/release/Des-Magmeta/ChildFunSans-TC?style=flat-square&color=1677B3)](https://github.com/Des-Magmeta/ChildFunSans-TC/releases/latest) 
  [![开源授权](https://img.shields.io/github/license/Des-Magmeta/ChildFunSans%2DTC?style=flat-square)](https://github.com/Des-Magmeta/ChildFunSans-TC/blob/main/OFL.txt) 
  [![ZeoSeven Fonts](https://shields.io/badge/ZeoSeven_Fonts-ffffff?style=flat-square&color=1677B3)](https://fonts.zeoseven.com/items/219) 
- [![猫龈网](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAfCAMAAABeSlSAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHyUExURQAAAAAA//8AAAAA//8AAAAA/wAA//8AAAAA//8AAAAA//8A//8AAAAA//8AAAAA//8AAAAA/wD///8AAAD/////AAD/////AP//AP//////AAD/////AAD/////AP///wD/////AP//AP//////AP//////AP///wD//////wD//wD/////////AP///wD//wD//wD/////AP///////////wD/////AP///wD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f////39/f39/f39/f39/f39/f7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v///y6UHskAAACldFJOUwADAwQEBQYGBwcICAkLCwwMDQ0NDhESEhMWFxgYGRkbHBwdHR8hIyQlJygpKSwsLS4yMjQ1Njc3ODk6PD5BQkNFRkdNUFFTVldaXF1fYGdqbnBxcnZ4eXt8gIGEhYaJio6RkpWXmJqbnJ2goqOlpqirrrCxs7S1trm7vr/BwsTHyMvMzc/Q0tPU2Nrb3N3f4uTm5+jp6+zt7vDx8vP19vf4+/z9/iyQxCoAAAAJcEhZcwAAFxEAABcRAcom8z8AAAHPSURBVDhPvZDpOxtRFIdvCJ1olaCLoqW1BF1U2tpJSlpFiK17NNE1DbGVoFVL20TRoMFUDDKS83+6Z+6tJjx9Hp+8X+b+fued88xcckLcmnl9nR8PkfVizoDPewHYcRYqVRQZr0TYfYinii0A2LReVOoDEiwrtN5txPNtMTj2B8BTH6OMGHc/A0huaduEoXg52FwwIEPY+7a1+opalV5uts/KEPp0s07aqkIj2wMv1XHmDbo0AqlTQ9rklRtoJI3DWLJ+MsxHf5mtFT7A98toCG/A9/jQBkR6/gNGzqJBLHu8O4pVrRgGiecjBJsUgeiWWPYNOtwBWk99dHlZs17KDO24Ep3nVHdMlV7ffaNRI/SEsPLkMENwYApUkUfb0K/XW0N7XTElv7GbSGZGghOTWBpno29dpT8PfWd0vxQjlRmJw8yItwPM52onAPq5MX3huIbw/n8GvzBC75+mzbJIo3iZVuFn7MIIKcIX5I7TEUZLkFb+ci6Q2G5cstrQC7CQf/4rgKtmEVfYNFwgJO0dXpAs0vbLKLXFHRrBfYmPkZQe3BpFyJXJhwxV/Tc+4fw0n+KjA+Ibhvx8CmvDjf8+IYprJsuTp+0P8ng8OQjZB5l3H1123DZyAAAAAElFTkSuQmCC)](https://www.maoken.com/freefonts/27612.html)
+ [![猫啃网](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAfCAMAAABeSlSAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHyUExURQAAAAAA//8AAAAA//8AAAAA/wAA//8AAAAA//8AAAAA//8A//8AAAAA//8AAAAA//8AAAAA/wD///8AAAD/////AAD/////AP//AP//////AAD/////AAD/////AP///wD/////AP//AP//////AP//////AP///wD//////wD//wD/////////AP///wD//wD//wD/////AP///////////wD/////AP///wD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f////39/f39/f39/f39/f39/f7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v///y6UHskAAACldFJOUwADAwQEBQYGBwcICAkLCwwMDQ0NDhESEhMWFxgYGRkbHBwdHR8hIyQlJygpKSwsLS4yMjQ1Njc3ODk6PD5BQkNFRkdNUFFTVldaXF1fYGdqbnBxcnZ4eXt8gIGEhYaJio6RkpWXmJqbnJ2goqOlpqirrrCxs7S1trm7vr/BwsTHyMvMzc/Q0tPU2Nrb3N3f4uTm5+jp6+zt7vDx8vP19vf4+/z9/iyQxCoAAAAJcEhZcwAAFxEAABcRAcom8z8AAAHPSURBVDhPvZDpOxtRFIdvCJ1olaCLoqW1BF1U2tpJSlpFiK17NNE1DbGVoFVL20TRoMFUDDKS83+6Z+6tJjx9Hp+8X+b+fued88xcckLcmnl9nR8PkfVizoDPewHYcRYqVRQZr0TYfYinii0A2LReVOoDEiwrtN5txPNtMTj2B8BTH6OMGHc/A0huaduEoXg52FwwIEPY+7a1+opalV5uts/KEPp0s07aqkIj2wMv1XHmDbo0AqlTQ9rklRtoJI3DWLJ+MsxHf5mtFT7A98toCG/A9/jQBkR6/gNGzqJBLHu8O4pVrRgGiecjBJsUgeiWWPYNOtwBWk99dHlZs17KDO24Ep3nVHdMlV7ffaNRI/SEsPLkMENwYApUkUfb0K/XW0N7XTElv7GbSGZGghOTWBpno29dpT8PfWd0vxQjlRmJw8yItwPM52onAPq5MX3huIbw/n8GvzBC75+mzbJIo3iZVuFn7MIIKcIX5I7TEUZLkFb+ci6Q2G5cstrQC7CQf/4rgKtmEVfYNFwgJO0dXpAs0vbLKLXFHRrBfYmPkZQe3BpFyJXJhwxV/Tc+4fw0n+KjA+Ibhvx8CmvDjf8+IYprJsuTp+0P8ng8OQjZB5l3H1123DZyAAAAAElFTkSuQmCC)](https://www.maoken.com/freefonts/27612.html)
  [![jf 7000: Fully Supported](https://img.shields.io/badge/jf_7000-Fully_Supported-66AC35?logo=data:image/svg+xml;base64,PHN2ZyBkYXRhLW5hbWU9IuWcluWxpCAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTMuMDcgMjQ3LjM4Ij48Y2lyY2xlIGN4PSI5Ni41MyIgY3k9Ijk2LjU5IiByPSI5Ni40NCIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGQ9Ik05NjAgNDE2LjMxYTk2LjU0IDk2LjU0IDAgMSAwIDAgMTkzLjA3YzIuOCAwIDUuNS0uMTQgOC4yMy0uMzdWNDg0LjQ0YTI5LjM1IDI5LjM1IDAgMCAxIDI5LjI1LTI5LjI1IDYyLjYgNjIuNiAwIDAgMSAxMi43MyAxLjMzYzMuOC45IDYuMjUgMy44IDYuMjUgNy4zNyAwIDQuNjktMy44IDcuMTQtNy4zNyA3LjE0LTMuNzkgMC02LjQ4LTEuMzMtMTEuNjEtMS4zM2ExNCAxNCAwIDAgMC0xNC4wNiAxNC4wNnYxOC4zaDI1LjY3YTcuMjkgNy4yOSAwIDAgMSA3LjM3IDcuMzcgNy4xIDcuMSAwIDAgMS03LjM3IDcuMTRoLTI1LjY2djg5Ljk0QTk2LjU0IDk2LjU0IDAgMCAwIDk2MCA0MTYuMzEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NjMuNDYgLTQxNi4zMSkiIHN0eWxlPSJmaWxsOiNhOWFhYTkiLz48cGF0aCBkPSJNNjQuNjEgMzguODhhMTAgMTAgMCAwIDAtMTAuMDcgMTAuMDUgMTAuMDUgMTAuMDUgMCAxIDAgMjAuMSAwIDEwIDEwIDAgMCAwLTEwLTEwLjA1bS0uMDMgNDQuNjRhNy42NyA3LjY3IDAgMCAwLTcuNTkgNy41OVYyMDYuM2MwIDE0LjA3LTcuMTQgMjMuODktMTkuNDEgMjYuNzlhNi45MyA2LjkzIDAgMCAwLTUuODEgNi45MiA3LjIzIDcuMjMgMCAwIDAgNy4xNCA3LjM3IDEwIDEwIDAgMCAwIDIuMjQtLjIzYzE4Ljc0LTMuNTcgMzEtMjAuNTQgMzEtNDEuNTJWOTEuMTFhNy42NyA3LjY3IDAgMCAwLTcuNTktNy41OSIgc3R5bGU9ImZpbGw6IzU5NWE1OSIvPjwvc3ZnPg==&style=flat-square)](https://github.com/justfont/jf7000)
 </div>
- 
+
+<div lang="zh-cn">
+
 ## 项目简介
 Stick 因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦有田园写意风格的字体，在设计领域广受应用。然而原始字体 Stick 是为日文而设，汉字部分以日本使用的字形为基准，且只支持 Adobe-Japan1-3 范围的汉字，仍缺部分常用字，无法满足日常繁体中文应用需求。故本人计划基于 Fontworks 出品的日文字体 Stick 增补、调整字形，并编辑、适当增加 OpenType 特性，以满足繁体中文的使用需求。
 ## 总体计划
