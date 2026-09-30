@@ -17,6 +17,8 @@
 > - 更多衍生版本 *（可能隨時變更）*：
 >   - <span lang="zh-CN">[游趣体 SC / Child Fun Sans SC](https://github.com/Des-Magmeta/ChildFunSans)：简体中文版，简体中文用户或使用简体字者建议使用此版本字体。</span>
 >   - <span lang="ko-KR">[傳趣體 / Chuanqu](https://github.com/Steve-Yuu/Chuanqu)<span lang="zh-TW">：</span>傳統字形版<span lang="zh-TW">，</span>参考 Y 氏筆書對部件進行修改<span lang="zh-TW">，</span>傳統字形愛好者建議使用此字型<span lang="zh-TW">。</span></span>
+>   - <span lang="ja">[ステッキ / Stick](https://github.com/fontworks-fonts/Stick)：オリジナルバージョン（日本語版）です。日本語版が必要な場合は、オリジナルフォント「ステッキ」を直接使用してください。<br>
+>   For Japanese users or to show Japanese contexts correctly, please use the original version [Stick](https://github.com/fontworks-fonts/Stick) directly. </span>
 
 <div align="center">
  
