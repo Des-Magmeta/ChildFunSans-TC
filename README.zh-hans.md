@@ -20,6 +20,7 @@
 > - 更多衍生版本 *（可能随时变更）*：
 >   - [游趣体 SC / Child Fun Sans SC](https://github.com/Des-Magmeta/ChildFunSans)：简体中文版，简体中文用户或使用简体字者建议使用此版本字体。
 >   - [传趣体 / Chuanqu](https://github.com/Steve-Yuu/Chuanqu)：传统字形版，参考 Y 式笔书对部件进行进一步修改，传统字形爱好者建议使用此字体。
+>   - [ステッキ / Stick](https://github.com/fontworks-fonts/Stick)：该项目的原版日文字体。如果你是日语用户或需要正确显示日文内容，请直接使用 Stick 字体。
 > </div>
 
 <div align="center">
