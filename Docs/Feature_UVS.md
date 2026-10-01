@@ -7,7 +7,7 @@ Unicode 標準化變體序列 (Standardized Variation Sequences, SVS) 資料來�
 | 字元 | Unicode | + `U+FE00` | + `U+FE01` | 
 | :-------: | :-------: | :--------: | :--------: | 
 | 0 | `U+30` | 斜線零[0︀] |
-| ０ | `U+FF10` | 斜線零[0︀] |
+| ０ | `U+FF10` | 斜線零[０] |
 | ， | `U+FF0C` | 左下[<span lang="zh-cn">，︀</span>] | 置中[<span lang="zh-tw">，︁</span>] |
 | ． | `U+FF0E` | 左下[<span lang="zh-cn">．︀</span>] | 置中[<span lang="zh-tw">．︁</span>] |
 | 、 | `U+3001` | 左下[<span lang="zh-cn">、︀</span>] | 置中[<span lang="zh-tw">、︁</span>] |
