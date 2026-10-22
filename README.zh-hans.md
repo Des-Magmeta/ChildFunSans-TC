@@ -70,8 +70,9 @@ Stick 因笔形像笔杆一样以直线设计，而被视为一款既可爱调�
  1. 本人并非专业设计师，并未考虑设计美感，故部分字形可能不美观，后补字与原版可能略有违和感，且在新补字符中部分字的轮廓曲线会有毛刺。此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接比较生硬。如有字形优化建议，请在 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/2) 提出。如需请求添加目标范围以外的字符，请在 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans-TC/issues/1) 提出，**不要另开议题，以便于整理。**
  2. 此字体采用折中印刷体（偏现代字形），可能无法满足传统字形爱好者需求，如需使用传统字形版本，请移步[「传趣体」](https://github.com/Steve-Yuu/Chuanqu)。
  3. 「游趣体」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于弯引号`“‘’”`宽度和全角标点符号<span lang="zh-TW">`，．、。：；！？`</span>位置的选择，支持变体序列的字符和所搭配的选择符详见[「游趣体」变体序列一览表](https://github.com/Des-Magmeta/ChildFunSans-TC/blob/main/Docs/Feature_UVS.md)。**PowerPoint (Microsoft 365) 等部分软件不支持此特性**，使用时需留意。
- 4. 部分软件（如 PowerPoint 365）中，使用该字体可能会出现竖排文本显示异常的问题。
- 5. 此字体面向繁体中文用户，如需使用简体中文版，请移步[「游趣体」简体版](https://github.com/Des-Magmeta/ChildFunSans)。
+ 4. 自 0.820 版本起，该项目提供等宽版本，用于部分无法正常使用比例宽度或有明确对齐需求的场合（如 Console）。另有适用于编程显示的 Code 版[「游趣体 Code / Child Fun Sans Code」](https://github.com/Des-Magmeta/ChildFunSans-Code)。
+ 5. 部分软件（如 PowerPoint 365）中，使用该字体可能会出现竖排文本显示异常的问题。
+ 6. 此字体面向繁体中文用户，如需使用简体中文版，请移步[「游趣体」简体版](https://github.com/Des-Magmeta/ChildFunSans)。
 
 ## 协助完善 
   「游趣体」仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。  
